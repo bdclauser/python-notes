@@ -12,3 +12,9 @@ print(minimum)
 absolute = abs(-42)
 
 print(absolute)
+
+# Lets use type() to return the type of an argument
+
+print(type(42))
+print(type(4.2))
+print(type('spam'))
